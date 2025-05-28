@@ -2,7 +2,8 @@
 
 Bu proje, A* (A-Star) algoritmasının grid tabanlı görsel simülasyonunu sunar. Başlangıç (yeşil) ve hedef (kırmızı) noktalar arasındaki en kısa yol, adım adım görselleştirilir. Obstacle (engel) hücreler rastgele yerleştirilir ve algoritma bu engelleri aşarak yolu bulur.
 
-![A* Demo](./public/astar.png)
+![A* Demo](./a_star_visualizer/public/astar.png)
+
 
 ## 🚀 Özellikler
 
@@ -19,12 +20,13 @@ Bu proje, A* (A-Star) algoritmasının grid tabanlı görsel simülasyonunu suna
 
 ---
 
-## 📦 Kurulum
+## 🚀 Projeyi Sıfırdan Çalıştırmak için
 
-Aşağıdaki adımları takip ederek projeyi sıfırdan çalıştırabilirsin:
+Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edin:
 
-### 1. Proje klasörünü oluştur
+### 1. Projeyi Klonlayın veya ZIP Dosyasını Açın
 
 ```bash
-mkdir a_star_visualizer
-cd a_star_visualizer
+git clone https://github.com/silakscu27/A-star-visualizer.git
+cd A-star-visualizer
+
