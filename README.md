@@ -1,30 +1,30 @@
 # 🌟 A* Pathfinding Visualization
 
-Bu proje, A* (A-Star) algoritmasının grid tabanlı görsel simülasyonunu sunar. Başlangıç (yeşil) ve hedef (kırmızı) noktalar arasındaki en kısa yol, adım adım görselleştirilir. Obstacle (engel) hücreler rastgele yerleştirilir ve algoritma bu engelleri aşarak yolu bulur.
+This project presents a grid-based visual simulation of the A\* (A-Star) algorithm. The shortest path between the start point (green) and the goal point (red) is visualized step by step. Obstacle cells are randomly placed, and the algorithm navigates around them to find the path.
 
 ![A* Demo](./a_star_visualizer/public/astar.png)
 
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- A* algoritmasının adım adım animasyonlu görselleştirmesi
-- Engel yoğunluğu, grid boyutu ve animasyon hızı ayarlanabilir
-- Canlı olarak açık (open set), kapalı (closed set), geçerli yol ve incelenen düğüm renklerle gösterilir
-
----
-
-## ⚙️ Gereksinimler
-
-- [Node.js](https://nodejs.org) (npm ile birlikte gelir)
-- Modern bir tarayıcı (Chrome, Firefox, Edge, vb.)
+- Step-by-step animated visualization of the A* algorithm
+- Adjustable obstacle density, grid size, and animation speed
+- Live color-coded display of the open set, closed set, current node, and final path
 
 ---
 
-## 🚀 Projeyi Sıfırdan Çalıştırmak için
+## ⚙️ Requirements
 
-Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edin:
+- [Node.js](https://nodejs.org) (comes with npm)
+- A modern web browser (Chrome, Firefox, Edge, etc.)
 
-### 1. Projeyi Klonlayın veya ZIP Dosyasını Açın
+---
+
+## 🚀 How to Run the Project from Scratch
+
+To run this project on your local machine, follow the steps below:
+
+### 1. Clone the Repository or Extract the ZIP File
 
 ```bash
 git clone https://github.com/silakscu27/A-star-visualizer.git
